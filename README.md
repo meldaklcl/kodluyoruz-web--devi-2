@@ -1,1 +1,1 @@
-# kodluyoruz-web--devi-2
+# kodluyoruz-web-ödevi-2
